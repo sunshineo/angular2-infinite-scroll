@@ -1,8 +1,8 @@
 {
 	"compilerOptions": {
 	    "noImplicitAny": true,
-      "module": "commonjs",
-      "target": "es5",
+      "module": "es2015",
+      "target": "es2015",
       "emitDecoratorMetadata": true,
       "experimentalDecorators": true,
       "inlineSourceMap": true,
